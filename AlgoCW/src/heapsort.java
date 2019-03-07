@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**edited from:
  * https://www.geeksforgeeks.org/java-program-for-heap-sort/
  */

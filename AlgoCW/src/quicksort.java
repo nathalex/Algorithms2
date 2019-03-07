@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**edited from:
  * https://www.geeksforgeeks.org/quick-sort/
  */
